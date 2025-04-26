@@ -6,7 +6,7 @@
 </div>
 
 ##  👧🏻 About Me
-> "Fusing Business and Tech with AI--Innovation Meets Impact."
+> "Fusing Business and Tech with AI where Innovation Meets Impact."
 
 I build and lead AI initiatives that fuse technical rigour with bold creativity. My work sits at the intersection of engineering, strategy, and vision—turning ambitious ideas into tangible outcomes.
 
