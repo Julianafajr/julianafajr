@@ -2,7 +2,7 @@
 # Hello! Je's Here 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer!;Project+Manager+at+EndgamekiInc" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer!;Project+Manager+at+EndgamekiAI" alt="Typing SVG" />
 </div>
 
 ##  👧🏻 About Me
@@ -12,7 +12,7 @@ I build and lead AI initiatives that fuse technical rigour with bold creativity.
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Deep Science at Leeds University
-- 👩🏻‍💻 Leading AI-driven projects at Endgameki Inc.
+- 👩🏻‍💻 Leading AI-driven projects at EndgamekiAI
 - 🌱 Specialising in ML Engineering and Team Leadership
 - 🚀 Exploring cutting-edge AI/ML technologies
 
