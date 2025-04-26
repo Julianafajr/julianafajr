@@ -12,11 +12,11 @@ I'm a Machine Learning Engineer and Development Project Leader at Endgameki Inc.
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Deep Science at Leeds University
-- 👨‍💻 Leading AI-driven projects at Endgameki Inc.
+- 👩🏻‍💻 Leading AI-driven projects at Endgameki Inc.
 - 🌱 Specialising in ML Engineering and Team Leadership
 - 🚀 Exploring cutting-edge AI/ML technologies
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Kosmonot
 
 <div align="center">
 
@@ -32,9 +32,13 @@ I'm a Machine Learning Engineer and Development Project Leader at Endgameki Inc.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
 
+## Framework
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
 
 ### Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -51,16 +55,6 @@ I'm a Machine Learning Engineer and Development Project Leader at Endgameki Inc.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafajr&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
 </div>
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://twitter.com/julianafajr" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/julianafajr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
 
 ## 📫 How to Reach Me
 - 💼 Professional Inquiries: [julianawork@gmail.com](mailto:julianawork@gmail.com)
