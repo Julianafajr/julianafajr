@@ -8,7 +8,7 @@
 ##  👧🏻 About Me
 > "Fusing Business and Tech with AI--Innovation Meets Impact."
 
-I'm a Machine Learning Engineer and Development Project Leader at Endgameki Inc., where I fuse cutting-edge AI with strategic project leadership to deliver impactful solutions. Based in 🇯🇵^🇬🇧, I bridge technical innovation and business insight to drive technological advancement.
+I'm a Machine Learning Engineer and Development Project Leader at Endgameki Inc., where I fuse cutting-edge AI with strategic project leadership to deliver impactful solutions. I bridge technical innovation and business insight to drive technological advancement.
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Deep Science at Leeds University
