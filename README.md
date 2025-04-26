@@ -2,7 +2,7 @@
 # Hello! Je's Here 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer;Project+Manager+at+HumblebeeAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer;Project+Manager+at+Endgameki+Inc." alt="Typing SVG" />
 </div>
 
 ##  👧🏻 About Me
@@ -66,7 +66,7 @@ I'm a Machine Learning Engineer and Development Project Leader at Endgameki Inc.
 - 💼 Professional Inquiries: [julianawork@gmail.com](mailto:julianawork@gmail.com)
 
 <div align="center">
-  <i>"Creating intelligent solutions for tomorrow's challenges"</i>
+  <i>"Future tomorrow's breakthroughs with today's AI"</i>
 </div>
 
 
