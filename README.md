@@ -11,7 +11,7 @@
 At the edge of code and wild dreams, I turn raw ideas into things you can actually touch. Every line of code is a step closer to turning 'what if' into 'what’s real'
 
 ## 🎯 Current Focus
-- 🎓 Pursuing Computer Science and Deep Science at Leeds University
+- 🎓 Pursuing Computer Science and Biomedical Informatics at Leeds University
 - 👩🏻‍💻 Heading AI tech services at EndgamekiAI.
 - 🌱 Making the environment for Machine Learning complex build & smarter
 - 🚀 Diving deep into the wild world of AI and ML.
