@@ -56,11 +56,6 @@ I build and lead AI initiatives that fuse technical rigour with bold creativity.
 </a>
 </div>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafajr&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
-</div>
-
-
 ## 📫 How to Reach Me
 - 💼 Professional Inquiries: [julianawork@gmail.com](mailto:julianawork@gmail.com)
 
