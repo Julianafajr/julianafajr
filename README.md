@@ -16,7 +16,7 @@ I build and lead AI initiatives that fuse technical rigour with bold creativity.
 - 🌱 Specialising in ML Engineering and Team Leadership
 - 🚀 Exploring cutting-edge AI/ML technologies
 
-## 🛠️ Technical Kosmonot
+## 👩🏻‍💻 Skill-Set
 
 <div align="center">
 
@@ -45,16 +45,6 @@ I build and lead AI initiatives that fuse technical rigour with bold creativity.
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center"> 
- <a href="">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianafajr&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=0d1117" />
-</a>
- <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafajr&theme=react&line_height=40&hide=css&title_color=40E0D0&text_color=ffffff&icon_color=40E0D0&bg_color=0d1117" />
-</a>
-</div>
 
 ## 📫 How to Reach Me
 - 💼 Professional Inquiries: [julianawork@gmail.com](mailto:julianawork@gmail.com)
