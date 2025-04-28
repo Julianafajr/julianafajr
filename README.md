@@ -12,7 +12,7 @@ Rooted in code and wild dreams, I turn raw ideas into things you can actually to
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Informatics at Leeds University
-- 👩🏻‍💻 Heading AI tech services at EndgamekiAI.
+- 👩🏻‍💻 Heading IT Project Lead Services at EndgamekiAI.
 - 🌱 Making the environment for Machine Learning complex build & smarter
 - 🚀 Diving deep into the wild world of AI and ML.
 
