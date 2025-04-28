@@ -6,7 +6,7 @@
 </div>
 
 ##  👧🏻 About Me
-> "Building cool things with tech. One idea at a time, and it eventually hits."
+> "Building cool things with technology. One idea at a time, and it eventually hits."
 
 Rooted in code and wild dreams, I turn raw ideas into things you can actually touch. Every line of code is a step closer to turning 'what if' into 'what’s real', proving that brilliance in tech was never meant to be limited by gender.
 
