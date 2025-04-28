@@ -8,7 +8,7 @@
 ##  👧🏻 About Me
 > "Building cool things with tech. One idea at a time, and it eventually hits."
 
-At the edge of code and wild dreams, I turn raw ideas into things you can actually touch. Every line of code is a step closer to turning 'what if' into 'what’s real'
+Rooted in code and wild dreams, I turn raw ideas into things you can actually touch. Every line of code is a step closer to turning 'what if' into 'what’s real', proving that brilliance in tech was never meant to be limited by gender.
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Informatics at Leeds University
