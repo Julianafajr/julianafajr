@@ -2,19 +2,19 @@
 # Hello! Je's Here 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer!;Project+Manager+at+EndgamekiAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer!" alt="Typing SVG" />
 </div>
 
 ##  👧🏻 About Me
-> "Fusing Business and Tech with AI where Innovation Meets Impact."
+> "Building cool things with tech. One idea at a time, and it eventually hits."
 
-I build and lead AI initiatives that fuse technical rigour with bold creativity. My work sits at the intersection of engineering, strategy, and vision—turning ambitious ideas into tangible outcomes.
+At the edge of code and wild dreams, I turn raw ideas into things you can actually touch. Every line of code is a step closer to turning 'what if' into 'what’s real'
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Deep Science at Leeds University
-- 👩🏻‍💻 Leading AI-driven projects at EndgamekiAI
-- 🌱 Specialising in ML Engineering and Team Leadership
-- 🚀 Exploring cutting-edge AI/ML technologies
+- 👩🏻‍💻 Heading AI tech services at EndgamekiAI.
+- 🌱 Making the environment for Machine Learning complex build & smarter
+- 🚀 Diving deep into the wild world of AI and ML.
 
 ## 👩🏻‍💻 Skill-Set
 
@@ -44,7 +44,7 @@ I build and lead AI initiatives that fuse technical rigour with bold creativity.
 - 💼 Professional Inquiries: [julianawork@gmail.com](mailto:julianawork@gmail.com)
 
 <div align="center">
-  <i>"Future tomorrow's breakthroughs with today's AI"</i>
+  <i>"Step Outside and See Trees!"</i>
 </div>
 
 
