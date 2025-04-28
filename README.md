@@ -47,9 +47,14 @@ I build and lead AI initiatives that fuse technical rigour with bold creativity.
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianafajr&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=1F6FEB&fire=1F6FEB&currStreakNum=C3D1D9&currStreakLabel=C3D1D9&sideNums=C3D1D9&sideLabels=C3D1D9" width="48%" />
+<div align="center"> 
+ <a href="">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianafajr&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=0d1117" />
+</a>
+ <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafajr&theme=react&line_height=40&hide=css&title_color=40E0D0&text_color=ffffff&icon_color=40E0D0&bg_color=0d1117" />
+</a>
+</div>
 
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafajr&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
