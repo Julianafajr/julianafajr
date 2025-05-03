@@ -8,7 +8,7 @@
 ##  👧🏻 About Me
 > "Building cool things with technology. That eventually hits."
 
-Rooted in code and wild dreams, I turn raw ideas into things you can actually touch. Every line of code is a step closer to turning 'what if' into 'what’s real', proving that brilliance in tech was never meant to be limited by gender.
+Started with wild ideas and lines of code, I turn ‘what ifs’ into real things you can actually build on. Every script I write is proof that tech was never meant to belong to just one gender.
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Informatics at Leeds University
