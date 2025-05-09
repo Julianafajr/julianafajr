@@ -6,7 +6,7 @@
 </div>
 
 ##  👧🏻 About Me
-> "Building cool things with technology. That eventually hits."
+> "Building cool things with technology. That eventually hits"
 
 Every script I write proves that coding was never meant to belong to just one gender.
 
