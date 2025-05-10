@@ -12,7 +12,7 @@ Every script I write proves that coding was never meant to belong to just one ge
 
 ## 🎯 Current Focus
 - 🎓 Pursuing Computer Science and Informatics at Leeds University
-- 👩🏻‍💻 Heading IT Project Lead Services at EndgamekiAI.
+- 👩🏻‍💻 Heading IT Project Lead Services at EndgamekiAI
 - 🌱 Making the environment for Machine Learning complex build & smarter
 - 🚀 Diving deep into the wild world of AI and ML.
 
