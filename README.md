@@ -11,7 +11,7 @@
 Every script I write proves that coding was never meant to belong to just one gender.
 
 ## 🎯 Current Focus
-- 🎓 Pursuing Computer Science and Informatics at Leeds University
+- 🎓 Pursuing Computer Science and Informatics at Queensland University
 - 👩🏻‍💻 Heading IT Project Lead Service
 - 🌱 Making the environment for Machine Learning complex build & smarter
 - 🚀 Diving deep into the wild world of AI and ML.
