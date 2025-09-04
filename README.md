@@ -5,18 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer!" alt="Typing SVG" />
 </div>
 
-##  👧🏻 About Me
+##  About Me
 > "Building cool things with technology. That eventually hits"
 
 Every script I write proves that coding was never meant to belong to just one gender.
 
-## 🎯 Current Focus
-- 🎓 Pursuing Computer Science and Informatics at University of Queensland
-- 👩🏻‍💻 Heading IT Project Lead Service
-- 🌱 Making the environment for Machine Learning complex build & smarter
-- 🚀 Diving deep into the wild world of AI and ML.
+## Current Focus
+- Pursuing Computer Science and Informatics at University of Queensland
+- Heading IT Project Lead Service
+- Making the environment for Machine Learning complex build & smarter
+- Diving deep into the wild world of AI and ML.
 
-## 👩🏻‍💻 Skill-Set
+## Skill-Set
 
 <div align="left">
 
@@ -39,7 +39,7 @@ Every script I write proves that coding was never meant to belong to just one ge
 </div>
 
 
-## 📫 How to Reach Me
+## How to Reach Me
 - 💼 Professional Inquiries: [julianawork@gmail.com](mailto:julianawork@gmail.com)
 
 <div align="center">
