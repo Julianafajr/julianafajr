@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hi,+Welcome!;I'm+an+AI+Engineer!" alt="Typing SVG" />
 </div>
 
-##  About Me
+## About Me
 > "Building cool things with technology. That eventually hits"
 
 Every script I write proves that coding was never meant to belong to just one gender.
