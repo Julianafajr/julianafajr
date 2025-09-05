@@ -13,8 +13,7 @@ Every script I write proves that coding was never meant to belong to just one ge
 ## Current Focus
 - Pursuing Computer Science and Informatics at University of Queensland
 - Heading IT Project Lead Service
-- Making the environment for Machine Learning complex build & smarter
-- Diving deep into the wild world of AI and ML.
+- Making The Environment for Deep Learning Complex Build & Smarter
 
 ## Skill-Set
 
