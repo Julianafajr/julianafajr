@@ -8,10 +8,9 @@
 ## About Me
 > "Building cool things with technology. That eventually hits"
 
-Every script I write proves that coding was never meant to belong to just one gender.
+A good to all is a good to none, be specific.
 
 ## Current Focus
-- Pursuing Computer Science and Informatics at University of Queensland
 - Heading IT Project Lead Service
 - Making The Environment for Deep Learning Complex Build & Smarter
 
